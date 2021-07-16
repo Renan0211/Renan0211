@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://renan0211.github.io/](https://renan0211.github.io/)
 
-- 📝 I regularly write articles on [my LinkedIn](my LinkedIn)
+- 📝 I regularly write articles on [my LinkedIn](https://www.linkedin.com/in/renan-antunes/)
 
 - 💬 Ask me about **react and javascript**
 
