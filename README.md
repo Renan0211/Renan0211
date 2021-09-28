@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Renan Antunes</h1>
 <h3 align="center">A passionate web developer and cybersecurity student from Brazil</h3>
 
-🇧🇷 Leia isso em português [aqui](README.pt.md)
+:brazil: Leia isso em português [aqui](README.pt.md)
 
 
 - 🌱 I’m currently learning **the basics of cybersecurity and back-end using Node.js**
