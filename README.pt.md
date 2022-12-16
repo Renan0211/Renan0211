@@ -1,6 +1,6 @@
 
 <h1 align="center">Oi 👋, eu sou Renan Antunes</h1>
-<h3 align="center">Um apaixonado estudante de Desenvolvimento Web e Segurança da Informação</h3>
+<h3 align="center">Um estudante apaixonado de Desenvolvimento Web e Segurança da Informação</h3>
 
 
 - 🌱 No momento atual, estou aprendendo **o básico de segurança da informação e back-end usando o Node.js**
